@@ -5,7 +5,7 @@ These are MindMaps related to greatcyber.org and Great Cyber
 
 Welcome to the Great Cyber Mind Maps Repository! This repository contains mind maps created by Great Cyber, covering various topics related to cybersecurity, ML/AI futuristic technologies, data science, and more.
 
-![Mind Map Example](mindmap_example.png)
+![Mind Map Example](mindmap_https.png)
 
 ## About Great Cyber
 
