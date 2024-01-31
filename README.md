@@ -1,4 +1,4 @@
-# GreatMaps---MindMaps
+# GreatMaps - MindMaps
 These are MindMaps related to greatcyber.org and Great Cyber
 
 # Great Cyber Mind Maps Repository
